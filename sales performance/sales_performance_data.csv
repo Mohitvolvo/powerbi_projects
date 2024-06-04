@@ -1,0 +1,1001 @@
+Date,Region,Product Category,Channel,Sales Volume,Revenue,Year,Month
+2024-01-15,North America,Beverages,Offline,278,4455.43,2024,1
+2023-08-01,North America,Prepared Foods,Offline,622,2000.21,2023,8
+2022-11-03,Africa,Beverages,Offline,804,4062.96,2022,11
+2023-09-02,Asia,Prepared Foods,Online,593,3032.7,2023,9
+2022-06-23,Europe,Prepared Foods,Offline,264,4778.75,2022,6
+2024-01-16,Asia,Beverages,Offline,182,374.3,2024,1
+2023-12-04,Europe,Confectionery,Offline,411,1134.25,2023,12
+2023-07-10,Asia,Beverages,Offline,688,2934.53,2023,7
+2023-06-26,Europe,Beverages,Offline,141,4265.96,2023,6
+2023-09-01,Africa,Beverages,Offline,498,4668.8,2023,9
+2023-01-30,North America,Beverages,Online,355,2060.06,2023,1
+2023-10-27,Europe,Dairy Products,Online,358,1008.83,2023,10
+2024-02-11,South America,Confectionery,Online,713,4819.55,2024,2
+2023-09-26,Asia,Pet Care,Offline,43,1980.26,2023,9
+2023-05-06,South America,Dairy Products,Offline,316,3300.15,2023,5
+2023-04-13,North America,Confectionery,Online,893,4652.14,2023,4
+2023-09-05,Africa,Pet Care,Online,12,1576.76,2023,9
+2022-07-19,Europe,Prepared Foods,Offline,154,252.34,2022,7
+2024-05-21,Europe,Confectionery,Online,57,1056.81,2024,5
+2022-10-11,South America,Confectionery,Offline,274,3029.89,2022,10
+2023-09-23,Europe,Dairy Products,Offline,638,2948.43,2023,9
+2023-05-30,South America,Beverages,Offline,309,1380.5,2023,5
+2023-10-18,Asia,Confectionery,Online,696,660.62,2023,10
+2022-09-26,Asia,Confectionery,Online,570,3470.67,2022,9
+2024-01-30,Europe,Prepared Foods,Online,268,3119.36,2024,1
+2023-04-07,South America,Confectionery,Online,181,293.03,2023,4
+2023-12-27,North America,Beverages,Offline,987,1500.79,2023,12
+2023-12-07,Asia,Prepared Foods,Online,906,3440.92,2023,12
+2023-01-02,Africa,Dairy Products,Offline,466,4253.23,2023,1
+2023-11-20,Europe,Pet Care,Online,387,3608.34,2023,11
+2022-11-22,Europe,Beverages,Online,664,2910.91,2022,11
+2023-06-12,Asia,Confectionery,Offline,705,4344.13,2023,6
+2023-01-31,Africa,Prepared Foods,Online,94,1377.58,2023,1
+2024-03-23,Africa,Dairy Products,Online,355,1066.73,2024,3
+2022-12-28,South America,Beverages,Online,889,903.54,2022,12
+2024-03-15,Africa,Beverages,Offline,83,970.09,2024,3
+2023-08-20,Africa,Confectionery,Online,701,1210.34,2023,8
+2023-04-20,Europe,Dairy Products,Offline,861,1758.77,2023,4
+2023-08-18,South America,Beverages,Offline,287,2740.56,2023,8
+2022-12-29,Europe,Beverages,Offline,762,1202.72,2022,12
+2024-02-09,South America,Prepared Foods,Offline,742,4936.02,2024,2
+2022-07-16,North America,Dairy Products,Offline,280,4197.29,2022,7
+2023-04-29,Asia,Pet Care,Online,978,1896.81,2023,4
+2023-04-07,Asia,Prepared Foods,Offline,205,1520.36,2023,4
+2023-11-01,Africa,Beverages,Online,416,4940.23,2023,11
+2023-12-28,North America,Confectionery,Offline,384,1140.14,2023,12
+2024-02-18,Asia,Confectionery,Offline,300,230.68,2024,2
+2024-02-04,Europe,Prepared Foods,Offline,565,185.61,2024,2
+2024-02-05,Europe,Pet Care,Online,563,4474.49,2024,2
+2022-08-27,South America,Beverages,Offline,915,3447.59,2022,8
+2023-04-25,Europe,Pet Care,Online,672,553.16,2023,4
+2023-01-02,South America,Dairy Products,Online,633,4541.19,2023,1
+2023-05-09,South America,Prepared Foods,Online,557,1940.16,2023,5
+2023-07-27,Europe,Prepared Foods,Offline,833,3274.56,2023,7
+2023-11-22,Asia,Beverages,Offline,891,1979.74,2023,11
+2023-06-28,South America,Confectionery,Online,582,3545.1,2023,6
+2024-02-15,Asia,Confectionery,Online,164,2197.14,2024,2
+2022-09-22,Asia,Pet Care,Online,747,3693.9,2022,9
+2022-07-01,Europe,Dairy Products,Offline,757,3504.5,2022,7
+2022-08-20,South America,Dairy Products,Online,475,974.75,2022,8
+2022-08-28,Asia,Beverages,Offline,169,3391.81,2022,8
+2024-02-24,South America,Pet Care,Offline,394,4930.39,2024,2
+2023-02-21,Asia,Confectionery,Online,888,4293.0,2023,2
+2023-06-20,North America,Pet Care,Online,795,4325.97,2023,6
+2024-05-06,Africa,Beverages,Online,322,905.18,2024,5
+2023-11-17,North America,Prepared Foods,Online,720,3338.8,2023,11
+2022-10-30,North America,Confectionery,Online,178,3284.17,2022,10
+2023-02-14,Asia,Beverages,Offline,659,274.37,2023,2
+2023-04-07,Europe,Dairy Products,Online,807,2255.28,2023,4
+2023-07-23,Africa,Beverages,Offline,551,1369.15,2023,7
+2024-05-11,Europe,Beverages,Online,183,3216.45,2024,5
+2024-03-05,Africa,Prepared Foods,Online,657,1579.81,2024,3
+2023-06-16,Asia,Beverages,Online,325,2618.12,2023,6
+2023-06-17,Europe,Pet Care,Online,202,2759.49,2023,6
+2023-07-18,Europe,Dairy Products,Offline,399,647.15,2023,7
+2024-03-10,North America,Confectionery,Online,540,1927.19,2024,3
+2023-02-08,Africa,Dairy Products,Online,467,4389.62,2023,2
+2022-10-13,North America,Prepared Foods,Online,617,1890.35,2022,10
+2023-02-02,Asia,Pet Care,Offline,439,3952.68,2023,2
+2023-08-08,North America,Beverages,Online,79,1511.57,2023,8
+2023-05-06,Europe,Confectionery,Online,321,607.76,2023,5
+2023-06-22,North America,Pet Care,Offline,553,1417.3,2023,6
+2024-01-19,North America,Confectionery,Online,351,3880.31,2024,1
+2023-09-10,Africa,Prepared Foods,Online,639,241.54,2023,9
+2022-12-09,Africa,Prepared Foods,Online,813,2275.73,2022,12
+2022-10-19,Asia,Prepared Foods,Online,559,3639.49,2022,10
+2024-02-27,North America,Prepared Foods,Offline,500,840.82,2024,2
+2024-03-25,South America,Beverages,Online,504,4463.58,2024,3
+2022-09-04,Asia,Beverages,Offline,539,4091.02,2022,9
+2024-04-23,Africa,Beverages,Online,106,4522.82,2024,4
+2023-06-07,Africa,Beverages,Offline,79,2623.38,2023,6
+2022-08-14,Europe,Pet Care,Offline,929,2072.04,2022,8
+2022-07-21,Asia,Confectionery,Online,300,4409.57,2022,7
+2024-03-13,North America,Confectionery,Offline,184,1908.95,2024,3
+2022-08-17,Europe,Pet Care,Offline,250,4426.42,2022,8
+2024-04-14,North America,Confectionery,Online,867,2369.92,2024,4
+2022-07-08,North America,Prepared Foods,Offline,517,1389.7,2022,7
+2023-09-20,South America,Pet Care,Offline,825,4531.17,2023,9
+2024-04-13,North America,Beverages,Offline,126,4831.58,2024,4
+2023-05-16,Africa,Dairy Products,Online,155,4627.74,2023,5
+2022-10-10,Africa,Dairy Products,Online,616,1427.71,2022,10
+2023-01-26,Africa,Dairy Products,Offline,444,2241.87,2023,1
+2024-03-04,South America,Dairy Products,Online,391,305.95,2024,3
+2024-04-04,Europe,Dairy Products,Online,178,2459.67,2024,4
+2024-02-17,North America,Pet Care,Online,748,1613.46,2024,2
+2022-11-18,North America,Pet Care,Online,386,1014.83,2022,11
+2024-03-26,South America,Beverages,Offline,808,2113.4,2024,3
+2022-09-09,Europe,Pet Care,Online,937,3851.67,2022,9
+2022-08-21,Asia,Beverages,Online,861,3620.07,2022,8
+2024-01-02,North America,Pet Care,Offline,896,4248.53,2024,1
+2022-10-03,Africa,Confectionery,Offline,38,2743.43,2022,10
+2023-05-08,Africa,Dairy Products,Online,748,247.82,2023,5
+2023-01-08,Asia,Prepared Foods,Offline,382,1361.47,2023,1
+2023-06-02,Europe,Beverages,Online,836,1935.62,2023,6
+2023-03-10,Europe,Confectionery,Online,59,4156.68,2023,3
+2022-12-03,Asia,Pet Care,Online,471,334.42,2022,12
+2023-12-26,North America,Confectionery,Offline,900,1021.08,2023,12
+2024-05-28,Asia,Dairy Products,Online,576,3600.28,2024,5
+2024-04-04,Africa,Beverages,Offline,579,3621.23,2024,4
+2023-03-22,Europe,Confectionery,Online,618,2514.38,2023,3
+2022-12-13,Asia,Confectionery,Offline,608,3577.48,2022,12
+2023-01-28,South America,Pet Care,Offline,924,228.76,2023,1
+2024-05-17,Africa,Prepared Foods,Offline,536,1147.94,2024,5
+2022-06-20,Europe,Confectionery,Offline,125,3317.61,2022,6
+2023-06-10,Europe,Dairy Products,Offline,735,4780.89,2023,6
+2023-02-05,Africa,Confectionery,Online,298,3444.73,2023,2
+2023-02-08,South America,Beverages,Online,695,1715.12,2023,2
+2023-11-10,Europe,Beverages,Offline,782,127.31,2023,11
+2022-12-03,Europe,Confectionery,Offline,299,4877.94,2022,12
+2022-07-26,South America,Prepared Foods,Offline,182,945.03,2022,7
+2022-11-22,South America,Dairy Products,Online,274,708.4,2022,11
+2022-11-14,North America,Confectionery,Online,518,1547.63,2022,11
+2023-02-04,Europe,Beverages,Offline,119,2190.3,2023,2
+2024-01-10,South America,Pet Care,Online,895,3930.31,2024,1
+2023-11-10,Europe,Prepared Foods,Offline,958,4705.44,2023,11
+2023-07-13,Africa,Dairy Products,Offline,560,4107.86,2023,7
+2024-01-11,North America,Beverages,Offline,527,4181.8,2024,1
+2022-10-13,Africa,Beverages,Online,232,1562.35,2022,10
+2023-12-26,Africa,Dairy Products,Online,749,3780.23,2023,12
+2024-04-26,South America,Dairy Products,Online,152,2628.98,2024,4
+2023-02-08,Europe,Dairy Products,Online,485,1566.53,2023,2
+2022-09-26,Europe,Prepared Foods,Offline,751,1235.01,2022,9
+2024-01-02,North America,Beverages,Online,663,3199.41,2024,1
+2023-06-25,North America,Dairy Products,Offline,314,4176.45,2023,6
+2024-04-21,North America,Pet Care,Online,810,4081.58,2024,4
+2023-03-10,Europe,Prepared Foods,Offline,920,624.49,2023,3
+2023-12-21,Africa,Beverages,Offline,226,926.57,2023,12
+2022-08-28,South America,Pet Care,Online,666,2436.87,2022,8
+2023-11-03,North America,Confectionery,Online,187,4541.59,2023,11
+2023-02-18,South America,Prepared Foods,Online,868,4097.88,2023,2
+2023-01-11,Africa,Beverages,Online,672,3970.91,2023,1
+2023-04-13,Asia,Dairy Products,Offline,412,4366.01,2023,4
+2022-08-24,Asia,Pet Care,Online,833,1502.39,2022,8
+2022-11-16,South America,Confectionery,Online,219,1211.03,2022,11
+2023-06-16,Africa,Dairy Products,Offline,910,4520.18,2023,6
+2023-02-19,South America,Dairy Products,Online,634,2342.35,2023,2
+2022-07-31,Europe,Confectionery,Online,384,3559.58,2022,7
+2023-03-17,Europe,Pet Care,Online,286,556.72,2023,3
+2023-11-27,South America,Dairy Products,Offline,686,1837.67,2023,11
+2022-06-21,North America,Pet Care,Online,314,4829.08,2022,6
+2023-09-17,Europe,Confectionery,Online,160,1938.12,2023,9
+2024-03-16,South America,Pet Care,Offline,845,4169.76,2024,3
+2023-11-06,Europe,Confectionery,Offline,38,2358.02,2023,11
+2023-12-22,South America,Confectionery,Online,417,2032.92,2023,12
+2023-12-05,Africa,Beverages,Online,109,2008.73,2023,12
+2023-05-20,South America,Beverages,Online,299,1510.4,2023,5
+2022-10-25,South America,Pet Care,Online,152,1278.73,2022,10
+2022-10-30,South America,Pet Care,Online,801,3828.86,2022,10
+2022-08-25,North America,Prepared Foods,Offline,214,276.72,2022,8
+2023-11-19,South America,Beverages,Online,579,2205.12,2023,11
+2022-08-03,Africa,Confectionery,Offline,401,2327.82,2022,8
+2024-02-22,Africa,Dairy Products,Offline,796,4525.14,2024,2
+2022-12-22,Africa,Beverages,Online,721,2024.06,2022,12
+2023-08-30,Asia,Pet Care,Online,27,589.47,2023,8
+2022-08-06,Europe,Dairy Products,Online,591,1597.01,2022,8
+2023-08-14,Asia,Dairy Products,Online,673,4817.71,2023,8
+2024-03-30,Asia,Confectionery,Online,565,4860.95,2024,3
+2023-05-24,Africa,Pet Care,Offline,719,3430.26,2023,5
+2024-03-13,Asia,Dairy Products,Offline,191,2425.01,2024,3
+2022-08-22,Europe,Beverages,Online,531,3531.91,2022,8
+2024-05-16,Asia,Confectionery,Offline,465,4106.08,2024,5
+2023-07-15,Africa,Dairy Products,Online,820,208.71,2023,7
+2022-09-21,South America,Pet Care,Offline,649,3308.63,2022,9
+2023-03-08,North America,Prepared Foods,Online,841,3978.37,2023,3
+2023-03-16,North America,Confectionery,Online,116,948.74,2023,3
+2022-06-16,Europe,Confectionery,Online,593,2419.33,2022,6
+2023-10-21,Europe,Beverages,Online,71,1352.6,2023,10
+2022-08-30,Europe,Dairy Products,Offline,577,2287.08,2022,8
+2023-08-09,Africa,Confectionery,Offline,117,3044.44,2023,8
+2023-05-21,Europe,Pet Care,Online,551,4905.75,2023,5
+2022-07-08,North America,Dairy Products,Offline,66,1014.36,2022,7
+2022-09-16,Asia,Beverages,Offline,911,174.14,2022,9
+2023-10-13,Africa,Confectionery,Offline,757,175.22,2023,10
+2023-02-07,North America,Prepared Foods,Online,668,3275.77,2023,2
+2023-12-02,Africa,Prepared Foods,Offline,575,4031.43,2023,12
+2023-06-18,Europe,Pet Care,Online,709,3819.03,2023,6
+2023-03-03,Asia,Pet Care,Offline,325,2708.42,2023,3
+2024-03-05,Europe,Confectionery,Online,598,3278.31,2024,3
+2022-11-27,Africa,Confectionery,Online,459,2716.86,2022,11
+2022-08-08,South America,Confectionery,Online,940,638.81,2022,8
+2023-04-21,South America,Confectionery,Online,965,2603.94,2023,4
+2022-11-05,North America,Pet Care,Offline,437,3422.64,2022,11
+2022-07-12,Europe,Beverages,Online,89,2877.02,2022,7
+2024-03-16,Africa,Pet Care,Online,782,462.91,2024,3
+2022-08-21,Africa,Dairy Products,Offline,529,308.65,2022,8
+2023-10-27,North America,Prepared Foods,Offline,807,4308.09,2023,10
+2023-12-21,South America,Prepared Foods,Online,224,998.63,2023,12
+2023-07-30,Asia,Beverages,Online,276,4687.38,2023,7
+2023-06-20,Africa,Prepared Foods,Online,401,735.25,2023,6
+2024-04-29,Africa,Confectionery,Offline,224,896.49,2024,4
+2022-12-08,South America,Prepared Foods,Offline,507,4516.9,2022,12
+2022-12-05,Africa,Confectionery,Online,583,229.09,2022,12
+2023-04-09,Asia,Dairy Products,Offline,551,4642.79,2023,4
+2022-10-05,Asia,Pet Care,Online,870,4423.93,2022,10
+2022-09-04,North America,Beverages,Online,89,4127.45,2022,9
+2022-07-25,South America,Dairy Products,Offline,646,2652.49,2022,7
+2023-03-02,South America,Dairy Products,Offline,381,1673.26,2023,3
+2022-08-29,Europe,Pet Care,Offline,623,437.54,2022,8
+2023-05-06,Africa,Beverages,Online,698,4740.13,2023,5
+2023-03-14,South America,Dairy Products,Online,734,4996.99,2023,3
+2024-03-16,South America,Confectionery,Offline,683,1381.32,2024,3
+2024-05-08,Europe,Beverages,Offline,186,3753.58,2024,5
+2022-09-30,Europe,Pet Care,Online,831,170.94,2022,9
+2024-04-16,South America,Dairy Products,Offline,239,3938.63,2024,4
+2024-04-11,Africa,Confectionery,Offline,730,3890.37,2024,4
+2023-10-13,North America,Beverages,Offline,422,2611.16,2023,10
+2023-07-20,Africa,Confectionery,Online,385,3894.86,2023,7
+2023-10-08,North America,Confectionery,Online,231,1975.76,2023,10
+2022-11-23,Africa,Beverages,Offline,877,3384.01,2022,11
+2023-09-25,Africa,Beverages,Online,828,3523.52,2023,9
+2023-08-05,Europe,Prepared Foods,Offline,638,3232.97,2023,8
+2023-12-24,Asia,Confectionery,Offline,509,2377.31,2023,12
+2023-04-07,South America,Beverages,Online,892,220.17,2023,4
+2023-05-21,Asia,Prepared Foods,Online,893,2756.24,2023,5
+2022-07-28,Asia,Confectionery,Online,892,2959.72,2022,7
+2023-06-13,Asia,Pet Care,Offline,95,386.88,2023,6
+2024-04-25,North America,Beverages,Online,258,3072.15,2024,4
+2023-02-07,Africa,Beverages,Offline,898,2384.02,2023,2
+2024-01-25,Europe,Beverages,Online,675,1493.05,2024,1
+2022-10-08,Africa,Pet Care,Offline,902,4349.79,2022,10
+2023-09-08,South America,Confectionery,Online,916,1300.79,2023,9
+2024-04-05,North America,Beverages,Online,946,2888.11,2024,4
+2022-10-31,South America,Dairy Products,Online,511,4434.6,2022,10
+2022-06-29,South America,Prepared Foods,Offline,943,3070.3,2022,6
+2023-03-14,South America,Dairy Products,Offline,672,1308.84,2023,3
+2024-05-15,North America,Dairy Products,Online,459,3846.25,2024,5
+2024-05-01,Europe,Pet Care,Online,417,1106.08,2024,5
+2024-05-12,Asia,Pet Care,Online,715,3976.94,2024,5
+2023-12-18,Europe,Confectionery,Online,386,3462.43,2023,12
+2023-03-09,Europe,Beverages,Online,274,3348.88,2023,3
+2023-03-25,Africa,Prepared Foods,Offline,462,484.49,2023,3
+2024-04-07,North America,Prepared Foods,Online,174,3050.03,2024,4
+2023-01-12,Asia,Pet Care,Offline,240,3572.31,2023,1
+2022-09-29,Africa,Prepared Foods,Online,563,1051.36,2022,9
+2022-12-19,Africa,Pet Care,Offline,950,444.29,2022,12
+2023-08-23,Europe,Confectionery,Offline,952,2707.64,2023,8
+2024-02-08,South America,Beverages,Offline,42,773.52,2024,2
+2024-03-23,Asia,Beverages,Online,779,1764.33,2024,3
+2022-08-23,Asia,Dairy Products,Online,45,4699.6,2022,8
+2024-03-05,South America,Pet Care,Online,989,1534.11,2024,3
+2023-04-17,Europe,Prepared Foods,Online,583,2244.07,2023,4
+2022-12-25,South America,Dairy Products,Offline,1000,4886.58,2022,12
+2024-01-24,Africa,Confectionery,Offline,405,1747.6,2024,1
+2024-01-07,Europe,Prepared Foods,Online,265,1896.33,2024,1
+2023-03-14,South America,Prepared Foods,Online,358,922.32,2023,3
+2024-01-20,Asia,Pet Care,Online,844,3131.2,2024,1
+2024-05-03,Africa,Dairy Products,Online,976,1574.55,2024,5
+2022-10-11,Europe,Pet Care,Offline,242,3365.9,2022,10
+2024-03-05,Africa,Beverages,Online,982,4648.89,2024,3
+2022-08-02,South America,Confectionery,Online,980,758.98,2022,8
+2022-08-25,Europe,Beverages,Offline,901,1302.17,2022,8
+2023-06-06,Europe,Pet Care,Online,584,1639.22,2023,6
+2023-12-27,Asia,Dairy Products,Offline,894,320.63,2023,12
+2024-04-04,Europe,Confectionery,Offline,607,852.46,2024,4
+2023-10-19,Asia,Pet Care,Online,337,1669.63,2023,10
+2023-03-27,North America,Confectionery,Offline,414,1217.78,2023,3
+2024-05-04,South America,Beverages,Offline,279,3020.86,2024,5
+2023-12-30,Europe,Prepared Foods,Online,959,3742.93,2023,12
+2022-09-22,South America,Confectionery,Online,65,4467.84,2022,9
+2024-03-31,North America,Pet Care,Offline,532,1888.63,2024,3
+2023-11-02,South America,Pet Care,Offline,862,2791.73,2023,11
+2024-05-02,South America,Dairy Products,Online,126,4314.06,2024,5
+2023-06-09,North America,Prepared Foods,Online,166,2850.84,2023,6
+2024-04-29,Africa,Confectionery,Offline,703,3418.1,2024,4
+2022-10-21,Asia,Pet Care,Offline,570,1184.56,2022,10
+2023-11-06,Asia,Prepared Foods,Online,94,4977.08,2023,11
+2023-09-20,Africa,Confectionery,Online,15,1133.99,2023,9
+2023-05-26,Africa,Pet Care,Online,481,2950.14,2023,5
+2022-12-07,Asia,Beverages,Offline,59,520.08,2022,12
+2023-11-27,South America,Dairy Products,Offline,623,1212.51,2023,11
+2022-12-06,Europe,Pet Care,Offline,530,2317.11,2022,12
+2024-05-06,North America,Beverages,Online,411,3941.12,2024,5
+2023-04-06,North America,Beverages,Offline,297,4719.01,2023,4
+2022-09-13,North America,Beverages,Offline,734,943.79,2022,9
+2022-07-16,Asia,Prepared Foods,Offline,255,655.06,2022,7
+2022-06-13,Asia,Confectionery,Online,86,2134.71,2022,6
+2023-05-18,North America,Dairy Products,Offline,173,3356.61,2023,5
+2023-01-29,South America,Beverages,Offline,560,4339.38,2023,1
+2024-03-04,North America,Beverages,Offline,784,2533.13,2024,3
+2022-08-07,Africa,Dairy Products,Online,562,1918.91,2022,8
+2022-07-25,Africa,Pet Care,Offline,320,1571.86,2022,7
+2023-01-16,Asia,Prepared Foods,Online,257,2750.57,2023,1
+2023-09-21,Asia,Pet Care,Offline,319,184.92,2023,9
+2023-01-29,Asia,Prepared Foods,Online,630,1473.91,2023,1
+2024-04-19,Asia,Dairy Products,Online,601,4969.88,2024,4
+2024-01-03,North America,Pet Care,Offline,807,304.17,2024,1
+2023-06-06,South America,Dairy Products,Offline,469,3991.71,2023,6
+2023-02-10,Europe,Dairy Products,Online,133,2787.16,2023,2
+2023-05-10,North America,Pet Care,Online,896,1461.53,2023,5
+2022-07-16,North America,Pet Care,Online,472,4568.21,2022,7
+2023-05-09,Africa,Beverages,Online,259,2983.73,2023,5
+2022-09-09,North America,Pet Care,Online,443,4460.0,2022,9
+2022-05-29,Europe,Dairy Products,Online,276,4313.16,2022,5
+2023-01-22,South America,Pet Care,Offline,359,364.3,2023,1
+2023-11-27,Africa,Prepared Foods,Online,579,1560.81,2023,11
+2022-10-25,Europe,Beverages,Online,685,751.38,2022,10
+2023-03-31,Africa,Confectionery,Offline,328,1953.13,2023,3
+2024-04-25,Africa,Beverages,Offline,955,2461.36,2024,4
+2022-10-04,Asia,Prepared Foods,Online,90,4242.12,2022,10
+2024-02-24,Asia,Prepared Foods,Offline,403,4566.64,2024,2
+2023-06-11,Africa,Confectionery,Online,171,2703.73,2023,6
+2022-07-21,Asia,Beverages,Offline,94,4214.97,2022,7
+2023-05-21,Europe,Dairy Products,Offline,605,262.15,2023,5
+2024-04-11,Asia,Confectionery,Offline,535,702.16,2024,4
+2023-02-22,South America,Confectionery,Online,603,3906.29,2023,2
+2023-09-02,South America,Beverages,Online,55,1886.05,2023,9
+2023-11-07,Europe,Confectionery,Online,793,117.5,2023,11
+2023-04-23,North America,Confectionery,Online,153,1273.8,2023,4
+2023-07-10,North America,Dairy Products,Online,321,3815.36,2023,7
+2022-06-24,South America,Pet Care,Offline,196,2726.19,2022,6
+2023-08-03,Asia,Beverages,Online,374,1628.46,2023,8
+2022-07-05,Asia,Beverages,Online,478,3455.26,2022,7
+2023-05-28,Asia,Confectionery,Online,56,4726.55,2023,5
+2022-11-20,Africa,Prepared Foods,Offline,315,4135.89,2022,11
+2022-10-22,Asia,Pet Care,Offline,118,1829.59,2022,10
+2022-09-20,Africa,Confectionery,Offline,337,3187.67,2022,9
+2023-09-15,Africa,Prepared Foods,Online,717,514.58,2023,9
+2023-12-03,Africa,Prepared Foods,Online,896,4256.87,2023,12
+2022-06-14,Africa,Confectionery,Offline,975,1981.8,2022,6
+2023-02-19,Africa,Prepared Foods,Offline,588,1180.72,2023,2
+2023-03-31,Africa,Confectionery,Online,492,3867.27,2023,3
+2023-07-22,Asia,Beverages,Online,806,4925.6,2023,7
+2023-08-20,South America,Pet Care,Online,789,456.47,2023,8
+2023-09-22,South America,Confectionery,Offline,688,2512.25,2023,9
+2023-02-10,South America,Beverages,Online,829,705.96,2023,2
+2023-02-27,Africa,Prepared Foods,Offline,583,3212.02,2023,2
+2023-05-25,Asia,Pet Care,Offline,487,2125.51,2023,5
+2024-03-28,Africa,Confectionery,Online,360,157.8,2024,3
+2024-02-18,North America,Prepared Foods,Offline,111,901.49,2024,2
+2024-04-24,North America,Pet Care,Online,674,3049.55,2024,4
+2023-12-11,Asia,Beverages,Offline,101,4946.61,2023,12
+2022-11-17,Asia,Pet Care,Online,242,4771.39,2022,11
+2023-10-18,South America,Beverages,Online,949,423.69,2023,10
+2023-11-23,Europe,Beverages,Online,951,650.76,2023,11
+2023-12-06,Europe,Confectionery,Offline,804,3112.21,2023,12
+2022-06-04,Africa,Dairy Products,Offline,637,4613.69,2022,6
+2022-12-02,Asia,Confectionery,Offline,791,556.33,2022,12
+2023-09-05,Europe,Confectionery,Online,134,2835.28,2023,9
+2024-01-20,Africa,Dairy Products,Online,834,332.01,2024,1
+2023-06-22,Europe,Beverages,Online,656,3137.78,2023,6
+2024-04-11,Asia,Confectionery,Offline,711,4116.29,2024,4
+2023-05-02,North America,Pet Care,Offline,242,715.91,2023,5
+2024-05-22,Africa,Confectionery,Offline,182,2856.02,2024,5
+2023-07-14,Africa,Prepared Foods,Online,415,4800.32,2023,7
+2022-08-22,South America,Dairy Products,Offline,849,2349.11,2022,8
+2023-03-16,Europe,Beverages,Online,169,1004.16,2023,3
+2024-01-03,Europe,Prepared Foods,Offline,414,2827.29,2024,1
+2023-08-22,South America,Pet Care,Online,438,2773.67,2023,8
+2023-06-27,Africa,Beverages,Offline,442,2990.52,2023,6
+2022-08-30,North America,Dairy Products,Online,137,170.33,2022,8
+2023-03-06,North America,Dairy Products,Offline,202,2889.67,2023,3
+2022-12-23,North America,Dairy Products,Offline,786,3338.82,2022,12
+2022-06-17,North America,Pet Care,Online,466,534.75,2022,6
+2023-06-27,South America,Beverages,Offline,934,4321.13,2023,6
+2023-09-10,Europe,Prepared Foods,Online,509,4773.96,2023,9
+2022-10-19,Europe,Dairy Products,Offline,640,3550.5,2022,10
+2023-01-01,Europe,Confectionery,Online,852,4713.36,2023,1
+2023-06-17,Europe,Pet Care,Offline,13,1385.31,2023,6
+2024-03-20,Asia,Dairy Products,Online,674,2616.06,2024,3
+2022-11-15,North America,Pet Care,Online,122,4223.23,2022,11
+2023-09-19,Europe,Confectionery,Offline,955,2432.93,2023,9
+2022-07-23,Europe,Confectionery,Offline,632,2161.96,2022,7
+2023-12-14,South America,Prepared Foods,Online,428,4702.35,2023,12
+2023-11-18,North America,Dairy Products,Offline,456,3172.82,2023,11
+2023-05-25,North America,Confectionery,Online,56,3369.85,2023,5
+2022-07-21,Africa,Confectionery,Online,312,4161.14,2022,7
+2022-12-02,North America,Dairy Products,Online,833,1177.66,2022,12
+2023-03-25,Europe,Dairy Products,Online,529,921.93,2023,3
+2023-04-25,South America,Beverages,Offline,190,1144.29,2023,4
+2024-05-12,North America,Beverages,Online,343,3558.28,2024,5
+2023-03-06,Europe,Dairy Products,Offline,23,2179.35,2023,3
+2024-02-11,South America,Pet Care,Offline,724,2796.72,2024,2
+2022-10-16,North America,Prepared Foods,Offline,26,3440.06,2022,10
+2023-03-23,Asia,Beverages,Offline,871,1472.79,2023,3
+2023-02-04,Africa,Pet Care,Online,265,4463.7,2023,2
+2023-02-24,Asia,Pet Care,Online,139,1227.16,2023,2
+2023-04-21,Europe,Pet Care,Online,179,1559.36,2023,4
+2024-05-09,Africa,Beverages,Online,304,4729.02,2024,5
+2023-11-12,South America,Dairy Products,Online,183,809.2,2023,11
+2022-09-20,North America,Prepared Foods,Online,876,1314.53,2022,9
+2023-08-18,South America,Dairy Products,Offline,882,4788.58,2023,8
+2022-10-11,Asia,Pet Care,Offline,947,3123.96,2022,10
+2022-11-18,Africa,Confectionery,Online,540,606.32,2022,11
+2023-12-27,Asia,Prepared Foods,Offline,161,4044.16,2023,12
+2023-10-12,Europe,Pet Care,Offline,125,4236.61,2023,10
+2022-07-05,North America,Beverages,Online,69,1550.72,2022,7
+2023-03-14,Asia,Confectionery,Offline,816,2223.93,2023,3
+2023-09-27,Africa,Pet Care,Online,540,1866.81,2023,9
+2023-02-15,Africa,Beverages,Online,952,1127.36,2023,2
+2023-04-12,Asia,Confectionery,Offline,984,3133.88,2023,4
+2022-10-26,Africa,Dairy Products,Offline,735,2035.04,2022,10
+2023-05-30,Europe,Prepared Foods,Online,683,388.18,2023,5
+2024-02-01,South America,Prepared Foods,Offline,260,3274.02,2024,2
+2022-09-19,Europe,Confectionery,Offline,300,4355.47,2022,9
+2024-04-16,Europe,Beverages,Online,449,4964.52,2024,4
+2024-01-15,Africa,Pet Care,Online,676,2577.35,2024,1
+2023-11-16,Asia,Dairy Products,Online,350,2514.39,2023,11
+2023-01-11,Europe,Prepared Foods,Offline,336,1726.84,2023,1
+2023-02-17,Asia,Beverages,Online,983,2814.35,2023,2
+2023-07-26,Africa,Beverages,Online,400,148.6,2023,7
+2022-07-31,Asia,Prepared Foods,Offline,130,1732.64,2022,7
+2022-11-18,Asia,Beverages,Offline,712,264.74,2022,11
+2023-12-01,Asia,Confectionery,Online,96,1982.14,2023,12
+2023-09-16,Asia,Dairy Products,Offline,636,2424.82,2023,9
+2023-10-05,Asia,Prepared Foods,Offline,274,1177.33,2023,10
+2023-02-25,South America,Prepared Foods,Offline,204,1252.59,2023,2
+2024-05-17,North America,Confectionery,Online,480,1281.4,2024,5
+2023-05-21,North America,Pet Care,Offline,518,1127.29,2023,5
+2023-10-24,North America,Confectionery,Offline,550,534.02,2023,10
+2023-05-07,Asia,Pet Care,Offline,700,4883.15,2023,5
+2022-11-24,Asia,Prepared Foods,Offline,247,1329.24,2022,11
+2023-01-07,Asia,Confectionery,Offline,542,4614.39,2023,1
+2023-01-16,Europe,Beverages,Online,924,4012.88,2023,1
+2024-01-16,South America,Prepared Foods,Online,254,1766.38,2024,1
+2024-03-31,South America,Confectionery,Online,753,1604.31,2024,3
+2024-05-06,Asia,Dairy Products,Online,522,2298.05,2024,5
+2023-01-14,North America,Confectionery,Online,288,1981.6,2023,1
+2024-01-17,Africa,Prepared Foods,Online,149,4549.32,2024,1
+2023-06-27,North America,Prepared Foods,Online,808,4077.35,2023,6
+2023-04-22,South America,Prepared Foods,Offline,20,405.25,2023,4
+2024-01-19,Asia,Pet Care,Online,661,4238.39,2024,1
+2022-12-01,Europe,Beverages,Offline,588,1947.67,2022,12
+2023-08-04,South America,Beverages,Online,570,2346.02,2023,8
+2023-10-05,Asia,Prepared Foods,Online,584,2855.25,2023,10
+2024-01-15,Europe,Prepared Foods,Online,639,1057.24,2024,1
+2023-05-14,Africa,Prepared Foods,Online,200,1393.25,2023,5
+2023-10-29,South America,Confectionery,Offline,621,385.98,2023,10
+2023-06-21,Africa,Confectionery,Online,576,1079.97,2023,6
+2023-03-01,North America,Confectionery,Offline,672,3208.55,2023,3
+2023-11-27,North America,Dairy Products,Offline,994,924.67,2023,11
+2023-12-25,Africa,Prepared Foods,Offline,959,3082.07,2023,12
+2023-05-20,Europe,Dairy Products,Online,220,1065.48,2023,5
+2023-02-01,Europe,Beverages,Offline,541,2086.64,2023,2
+2023-04-07,Europe,Pet Care,Offline,449,4705.53,2023,4
+2022-06-02,Europe,Confectionery,Online,790,3158.42,2022,6
+2024-04-15,Africa,Confectionery,Online,624,3804.15,2024,4
+2023-05-08,North America,Dairy Products,Offline,43,2527.01,2023,5
+2024-03-14,South America,Dairy Products,Online,380,4491.52,2024,3
+2023-05-23,Asia,Confectionery,Offline,521,4529.34,2023,5
+2024-02-19,Europe,Beverages,Offline,895,298.46,2024,2
+2023-06-11,North America,Pet Care,Online,67,4615.98,2023,6
+2023-02-11,South America,Confectionery,Online,469,274.05,2023,2
+2022-07-15,North America,Prepared Foods,Offline,776,2686.69,2022,7
+2023-07-25,South America,Dairy Products,Online,748,3870.47,2023,7
+2023-09-16,Europe,Pet Care,Online,768,1776.86,2023,9
+2024-01-05,North America,Confectionery,Offline,150,4002.17,2024,1
+2023-05-01,Asia,Dairy Products,Online,326,4759.68,2023,5
+2023-03-19,Asia,Beverages,Offline,323,949.28,2023,3
+2022-12-13,North America,Pet Care,Online,639,843.41,2022,12
+2023-01-14,Asia,Pet Care,Offline,886,3847.65,2023,1
+2023-08-19,North America,Pet Care,Offline,836,2799.01,2023,8
+2023-12-26,North America,Beverages,Offline,42,1472.38,2023,12
+2023-05-05,North America,Prepared Foods,Offline,204,3617.29,2023,5
+2022-08-28,Europe,Confectionery,Offline,78,3708.91,2022,8
+2022-11-28,Africa,Dairy Products,Online,84,904.52,2022,11
+2024-05-17,Asia,Prepared Foods,Offline,997,4574.96,2024,5
+2022-10-02,North America,Beverages,Online,274,1960.61,2022,10
+2022-09-10,South America,Beverages,Offline,714,2309.62,2022,9
+2022-10-06,Africa,Dairy Products,Offline,527,4760.68,2022,10
+2023-10-25,North America,Prepared Foods,Offline,615,4814.97,2023,10
+2023-07-21,Europe,Dairy Products,Offline,309,4269.89,2023,7
+2022-06-27,South America,Confectionery,Offline,788,3551.22,2022,6
+2022-11-20,Asia,Confectionery,Online,927,3119.28,2022,11
+2023-04-17,North America,Beverages,Online,860,815.28,2023,4
+2023-05-05,Asia,Prepared Foods,Offline,303,134.31,2023,5
+2022-11-19,North America,Prepared Foods,Offline,82,2721.94,2022,11
+2023-02-25,Asia,Beverages,Offline,238,346.0,2023,2
+2022-07-11,Africa,Beverages,Online,855,1166.17,2022,7
+2023-06-30,North America,Beverages,Offline,160,3561.37,2023,6
+2022-08-02,Africa,Pet Care,Online,49,3453.83,2022,8
+2023-12-29,North America,Dairy Products,Offline,586,3068.93,2023,12
+2023-10-04,Asia,Pet Care,Online,107,3172.54,2023,10
+2023-11-24,Africa,Confectionery,Offline,206,1751.23,2023,11
+2023-07-24,Europe,Pet Care,Offline,400,1912.12,2023,7
+2024-03-08,South America,Pet Care,Online,168,2642.58,2024,3
+2024-01-10,Africa,Dairy Products,Online,851,339.62,2024,1
+2023-11-06,Asia,Dairy Products,Offline,847,1948.02,2023,11
+2023-05-16,North America,Confectionery,Offline,851,2834.09,2023,5
+2023-02-01,Africa,Beverages,Online,704,3413.94,2023,2
+2023-02-23,South America,Dairy Products,Online,703,3487.94,2023,2
+2023-04-10,South America,Confectionery,Offline,850,338.38,2023,4
+2022-06-24,Asia,Dairy Products,Offline,972,631.03,2022,6
+2023-09-15,Africa,Prepared Foods,Online,558,953.49,2023,9
+2022-10-25,South America,Prepared Foods,Offline,573,919.26,2022,10
+2023-06-26,Africa,Prepared Foods,Online,658,4713.79,2023,6
+2023-03-23,Europe,Prepared Foods,Online,72,3782.43,2023,3
+2022-06-26,Europe,Prepared Foods,Offline,322,2326.87,2022,6
+2022-12-11,Europe,Beverages,Online,114,3211.58,2022,12
+2023-08-17,South America,Dairy Products,Online,388,3167.48,2023,8
+2023-02-11,Africa,Prepared Foods,Offline,815,158.8,2023,2
+2023-06-14,Europe,Prepared Foods,Offline,452,3192.35,2023,6
+2022-07-29,South America,Confectionery,Online,292,680.9,2022,7
+2022-09-07,North America,Confectionery,Online,929,406.89,2022,9
+2024-01-27,Europe,Prepared Foods,Online,202,763.3,2024,1
+2024-02-14,South America,Dairy Products,Online,863,1225.17,2024,2
+2022-10-12,North America,Prepared Foods,Offline,196,4548.94,2022,10
+2024-05-05,North America,Prepared Foods,Online,931,2486.8,2024,5
+2023-06-01,Europe,Confectionery,Online,694,993.73,2023,6
+2023-09-10,Asia,Prepared Foods,Offline,876,2459.28,2023,9
+2023-03-26,Europe,Confectionery,Online,311,1425.62,2023,3
+2023-03-15,Europe,Beverages,Offline,966,1954.37,2023,3
+2023-10-10,Asia,Confectionery,Offline,889,2534.8,2023,10
+2022-09-27,Africa,Beverages,Online,475,1861.14,2022,9
+2022-07-10,Asia,Beverages,Offline,239,772.26,2022,7
+2024-01-18,Europe,Beverages,Online,962,3846.75,2024,1
+2023-11-10,Asia,Beverages,Offline,547,1302.96,2023,11
+2024-02-24,Asia,Prepared Foods,Online,865,4283.39,2024,2
+2023-02-22,Asia,Dairy Products,Offline,602,4625.44,2023,2
+2023-08-04,South America,Beverages,Offline,471,4334.04,2023,8
+2022-11-21,Africa,Dairy Products,Offline,435,1596.95,2022,11
+2023-10-24,North America,Prepared Foods,Offline,101,4381.61,2023,10
+2022-09-08,North America,Dairy Products,Offline,918,4223.7,2022,9
+2024-01-10,North America,Dairy Products,Online,78,404.83,2024,1
+2024-01-23,South America,Confectionery,Offline,426,3264.89,2024,1
+2023-05-18,South America,Dairy Products,Online,886,3689.87,2023,5
+2022-09-15,Europe,Prepared Foods,Offline,994,4295.05,2022,9
+2023-12-31,North America,Confectionery,Offline,983,1231.93,2023,12
+2022-09-19,North America,Dairy Products,Online,354,641.4,2022,9
+2023-01-03,Europe,Prepared Foods,Offline,863,3980.58,2023,1
+2022-07-10,Europe,Pet Care,Offline,318,1974.09,2022,7
+2022-08-04,South America,Confectionery,Online,925,2231.0,2022,8
+2024-03-11,South America,Dairy Products,Online,171,279.63,2024,3
+2022-10-09,South America,Dairy Products,Online,13,3343.5,2022,10
+2024-05-03,Africa,Beverages,Online,186,4550.99,2024,5
+2022-10-07,South America,Pet Care,Online,402,1591.13,2022,10
+2022-11-19,Europe,Dairy Products,Online,592,2637.84,2022,11
+2023-01-21,Asia,Prepared Foods,Offline,281,3176.7,2023,1
+2023-10-06,Europe,Pet Care,Online,28,1626.48,2023,10
+2023-08-23,Africa,Prepared Foods,Offline,381,1253.37,2023,8
+2023-03-07,Europe,Confectionery,Online,861,1077.24,2023,3
+2023-09-01,North America,Pet Care,Online,674,3500.96,2023,9
+2023-09-04,Europe,Confectionery,Offline,12,2916.02,2023,9
+2023-06-25,South America,Beverages,Online,813,1288.64,2023,6
+2024-04-30,South America,Pet Care,Online,422,4424.38,2024,4
+2022-12-14,South America,Confectionery,Online,157,3952.97,2022,12
+2023-03-23,North America,Beverages,Offline,611,2479.5,2023,3
+2022-06-16,Africa,Confectionery,Offline,540,2156.57,2022,6
+2023-11-07,Europe,Dairy Products,Online,451,2494.62,2023,11
+2024-04-24,Europe,Prepared Foods,Offline,692,123.54,2024,4
+2023-07-01,North America,Dairy Products,Offline,524,4225.23,2023,7
+2022-09-27,South America,Prepared Foods,Online,409,4060.65,2022,9
+2022-12-27,Asia,Prepared Foods,Online,523,1294.91,2022,12
+2023-09-14,Asia,Confectionery,Online,113,4308.41,2023,9
+2024-05-24,Asia,Dairy Products,Online,656,1987.24,2024,5
+2024-05-25,Europe,Pet Care,Online,402,4281.19,2024,5
+2023-12-10,Asia,Confectionery,Online,191,2770.71,2023,12
+2023-11-22,Asia,Beverages,Online,891,1136.26,2023,11
+2022-11-28,Europe,Dairy Products,Offline,924,1050.61,2022,11
+2023-07-11,South America,Dairy Products,Online,692,812.69,2023,7
+2022-10-30,Asia,Prepared Foods,Online,730,2069.0,2022,10
+2023-04-21,Africa,Prepared Foods,Online,227,3914.23,2023,4
+2022-11-09,Africa,Confectionery,Online,989,2673.48,2022,11
+2023-03-09,South America,Pet Care,Offline,379,2561.86,2023,3
+2023-02-04,Africa,Prepared Foods,Offline,308,987.73,2023,2
+2023-11-19,Europe,Prepared Foods,Offline,737,653.74,2023,11
+2022-12-19,Europe,Pet Care,Offline,727,2650.85,2022,12
+2024-01-21,North America,Prepared Foods,Offline,289,2948.04,2024,1
+2024-01-18,North America,Dairy Products,Offline,751,420.23,2024,1
+2023-09-04,Africa,Beverages,Online,692,4205.99,2023,9
+2023-09-05,North America,Dairy Products,Online,102,4569.44,2023,9
+2023-10-28,Europe,Beverages,Online,133,4132.95,2023,10
+2023-07-28,Africa,Pet Care,Online,363,3587.09,2023,7
+2024-03-19,Europe,Beverages,Online,139,835.54,2024,3
+2024-02-22,Africa,Beverages,Offline,163,4572.24,2024,2
+2023-10-04,Europe,Dairy Products,Online,361,3786.08,2023,10
+2023-08-11,South America,Confectionery,Online,577,4318.71,2023,8
+2022-09-04,Asia,Dairy Products,Online,757,888.95,2022,9
+2023-02-22,South America,Dairy Products,Offline,874,2439.68,2023,2
+2023-03-21,Africa,Confectionery,Online,620,1403.17,2023,3
+2022-11-26,South America,Dairy Products,Online,858,2737.03,2022,11
+2022-07-28,Europe,Beverages,Offline,744,865.22,2022,7
+2023-04-23,Europe,Prepared Foods,Online,533,3080.99,2023,4
+2024-04-11,South America,Pet Care,Online,908,4165.44,2024,4
+2024-02-16,North America,Confectionery,Offline,910,4793.24,2024,2
+2023-05-03,North America,Confectionery,Online,294,2697.1,2023,5
+2023-09-18,Africa,Beverages,Online,35,4363.74,2023,9
+2023-10-01,Asia,Prepared Foods,Online,707,1307.29,2023,10
+2023-11-26,Europe,Confectionery,Online,835,3408.5,2023,11
+2023-05-26,Europe,Confectionery,Offline,643,1545.29,2023,5
+2024-01-26,Europe,Pet Care,Online,141,3056.75,2024,1
+2022-11-05,North America,Dairy Products,Offline,356,3483.33,2022,11
+2022-08-26,North America,Confectionery,Offline,44,4964.46,2022,8
+2023-01-05,Europe,Beverages,Online,573,4243.82,2023,1
+2023-12-26,Europe,Pet Care,Offline,221,904.09,2023,12
+2023-11-05,North America,Beverages,Offline,376,1129.21,2023,11
+2024-02-18,Africa,Prepared Foods,Online,865,3180.43,2024,2
+2023-06-24,North America,Dairy Products,Offline,428,739.55,2023,6
+2023-08-01,North America,Prepared Foods,Online,345,2867.26,2023,8
+2022-08-06,South America,Prepared Foods,Offline,227,3570.78,2022,8
+2023-06-14,Asia,Dairy Products,Offline,874,2004.83,2023,6
+2023-11-20,Europe,Beverages,Offline,165,3446.79,2023,11
+2024-05-19,North America,Prepared Foods,Online,512,2072.57,2024,5
+2022-07-11,South America,Beverages,Online,762,857.72,2022,7
+2024-01-30,Asia,Prepared Foods,Offline,311,196.66,2024,1
+2022-06-24,North America,Beverages,Online,99,3098.99,2022,6
+2023-06-17,Africa,Pet Care,Online,385,1182.92,2023,6
+2023-01-11,Africa,Dairy Products,Offline,704,1535.13,2023,1
+2024-01-10,Africa,Pet Care,Online,252,2857.53,2024,1
+2022-12-04,South America,Prepared Foods,Online,474,1839.67,2022,12
+2022-09-03,Europe,Prepared Foods,Offline,81,4380.67,2022,9
+2024-05-16,South America,Dairy Products,Online,85,4171.91,2024,5
+2024-04-22,Europe,Confectionery,Offline,486,572.33,2024,4
+2023-05-03,Europe,Beverages,Online,30,880.67,2023,5
+2023-10-18,South America,Dairy Products,Online,691,3233.63,2023,10
+2023-05-08,North America,Beverages,Offline,626,4473.69,2023,5
+2022-08-27,North America,Pet Care,Online,776,4141.79,2022,8
+2022-08-17,North America,Pet Care,Offline,661,2219.17,2022,8
+2024-02-19,Africa,Confectionery,Online,342,1700.67,2024,2
+2023-09-03,South America,Dairy Products,Online,201,828.36,2023,9
+2023-04-06,South America,Pet Care,Offline,763,3549.24,2023,4
+2023-08-11,South America,Dairy Products,Online,900,4070.01,2023,8
+2023-07-12,Asia,Beverages,Online,982,4110.08,2023,7
+2023-12-09,North America,Pet Care,Offline,498,4049.23,2023,12
+2022-10-13,South America,Dairy Products,Offline,656,2404.61,2022,10
+2023-07-02,South America,Pet Care,Offline,295,4956.33,2023,7
+2023-12-27,South America,Beverages,Online,208,4327.74,2023,12
+2023-02-13,Africa,Beverages,Offline,819,1404.19,2023,2
+2022-08-23,Asia,Confectionery,Online,426,2219.75,2022,8
+2024-04-29,Africa,Confectionery,Online,307,4580.89,2024,4
+2023-04-11,Africa,Beverages,Offline,48,2732.36,2023,4
+2023-01-31,South America,Prepared Foods,Online,782,1602.22,2023,1
+2024-05-26,Europe,Beverages,Offline,136,4770.83,2024,5
+2023-06-07,Asia,Pet Care,Offline,796,1670.3,2023,6
+2023-04-07,Africa,Beverages,Online,966,3883.93,2023,4
+2022-12-24,Asia,Confectionery,Offline,632,228.99,2022,12
+2024-03-08,Europe,Confectionery,Offline,40,253.35,2024,3
+2023-08-05,Africa,Confectionery,Online,853,974.21,2023,8
+2023-11-04,Asia,Beverages,Offline,319,4915.8,2023,11
+2022-09-17,Europe,Pet Care,Offline,575,4476.42,2022,9
+2024-03-06,South America,Confectionery,Online,735,3198.09,2024,3
+2023-05-06,Africa,Prepared Foods,Online,988,2365.0,2023,5
+2023-04-03,Europe,Dairy Products,Offline,214,4494.35,2023,4
+2024-01-14,South America,Prepared Foods,Online,544,1644.97,2024,1
+2024-02-09,South America,Pet Care,Offline,400,1188.61,2024,2
+2022-09-08,Europe,Pet Care,Online,428,1187.5,2022,9
+2024-04-01,Asia,Pet Care,Offline,78,1634.46,2024,4
+2023-08-10,Asia,Confectionery,Online,823,628.42,2023,8
+2023-03-19,Europe,Pet Care,Online,174,3619.59,2023,3
+2023-06-20,Africa,Dairy Products,Offline,43,3530.62,2023,6
+2023-08-21,Africa,Prepared Foods,Online,345,2757.0,2023,8
+2022-07-05,South America,Confectionery,Online,932,3099.46,2022,7
+2022-06-15,Africa,Confectionery,Offline,551,3196.83,2022,6
+2023-12-18,Asia,Prepared Foods,Online,451,2506.48,2023,12
+2023-06-16,Europe,Prepared Foods,Offline,530,4138.31,2023,6
+2022-11-01,North America,Dairy Products,Online,321,4792.32,2022,11
+2024-04-14,South America,Beverages,Online,214,4995.24,2024,4
+2023-06-10,Asia,Prepared Foods,Offline,162,3020.8,2023,6
+2022-08-18,Africa,Pet Care,Online,776,2717.89,2022,8
+2024-01-08,North America,Beverages,Offline,480,508.42,2024,1
+2022-08-01,Europe,Confectionery,Offline,820,2416.23,2022,8
+2022-11-30,North America,Pet Care,Offline,105,722.26,2022,11
+2024-04-04,Africa,Dairy Products,Offline,991,4354.08,2024,4
+2023-08-29,Africa,Prepared Foods,Offline,75,4941.41,2023,8
+2022-08-20,Africa,Confectionery,Online,678,2250.97,2022,8
+2023-03-04,Europe,Confectionery,Offline,606,1643.95,2023,3
+2022-11-11,Asia,Pet Care,Online,236,2780.4,2022,11
+2023-12-15,Europe,Prepared Foods,Offline,525,773.71,2023,12
+2022-11-03,North America,Prepared Foods,Offline,81,4699.24,2022,11
+2023-04-13,Africa,Dairy Products,Online,432,4023.68,2023,4
+2023-02-23,North America,Beverages,Offline,572,4144.91,2023,2
+2023-08-28,Africa,Beverages,Online,397,579.94,2023,8
+2023-10-24,Africa,Beverages,Offline,822,722.84,2023,10
+2022-08-03,South America,Dairy Products,Offline,234,4820.03,2022,8
+2022-07-15,Asia,Beverages,Offline,647,1110.41,2022,7
+2022-12-21,Asia,Prepared Foods,Offline,65,4200.66,2022,12
+2023-04-18,South America,Confectionery,Online,615,748.8,2023,4
+2024-03-11,Europe,Pet Care,Offline,565,4714.05,2024,3
+2024-01-29,Africa,Confectionery,Online,985,2833.74,2024,1
+2022-07-28,Europe,Prepared Foods,Online,882,3740.01,2022,7
+2023-07-27,North America,Pet Care,Online,571,3725.56,2023,7
+2022-10-14,North America,Dairy Products,Online,160,2302.83,2022,10
+2023-02-04,Africa,Beverages,Offline,325,4262.1,2023,2
+2022-06-28,South America,Confectionery,Online,619,4915.57,2022,6
+2024-03-14,Europe,Dairy Products,Online,522,4907.96,2024,3
+2022-09-19,North America,Confectionery,Offline,809,3319.29,2022,9
+2022-08-20,North America,Beverages,Offline,862,1545.76,2022,8
+2024-01-01,Africa,Prepared Foods,Offline,238,4284.55,2024,1
+2023-10-06,Europe,Dairy Products,Offline,340,3081.16,2023,10
+2022-10-12,Europe,Beverages,Online,228,4205.07,2022,10
+2023-12-16,Asia,Dairy Products,Online,135,443.82,2023,12
+2023-01-26,Asia,Pet Care,Online,886,3879.95,2023,1
+2023-05-21,North America,Beverages,Online,691,1612.51,2023,5
+2022-08-21,Asia,Dairy Products,Online,358,1579.57,2022,8
+2022-12-19,Asia,Dairy Products,Online,17,3169.33,2022,12
+2023-09-13,Europe,Confectionery,Online,184,1787.91,2023,9
+2024-02-10,Africa,Confectionery,Online,328,616.83,2024,2
+2023-09-16,Africa,Prepared Foods,Online,295,4463.29,2023,9
+2023-06-17,South America,Dairy Products,Online,635,3087.07,2023,6
+2023-05-22,South America,Dairy Products,Online,278,994.98,2023,5
+2023-04-27,North America,Dairy Products,Offline,969,2237.73,2023,4
+2023-07-19,South America,Dairy Products,Offline,530,3714.34,2023,7
+2023-02-07,South America,Pet Care,Offline,864,869.69,2023,2
+2022-11-16,Asia,Beverages,Offline,757,1588.77,2022,11
+2023-07-21,North America,Dairy Products,Offline,345,784.72,2023,7
+2024-04-11,South America,Beverages,Online,380,4148.33,2024,4
+2023-03-28,Asia,Pet Care,Offline,985,3240.24,2023,3
+2022-10-26,North America,Beverages,Offline,395,2088.54,2022,10
+2023-12-22,North America,Pet Care,Online,158,2628.24,2023,12
+2022-11-29,South America,Prepared Foods,Online,750,3584.87,2022,11
+2023-07-07,North America,Confectionery,Online,642,3030.39,2023,7
+2022-09-04,Africa,Beverages,Online,148,4773.32,2022,9
+2022-07-20,South America,Prepared Foods,Online,426,1138.42,2022,7
+2023-05-06,South America,Beverages,Offline,199,4294.03,2023,5
+2023-12-26,North America,Confectionery,Offline,405,3126.17,2023,12
+2022-10-01,Africa,Dairy Products,Online,71,4164.78,2022,10
+2023-09-03,Africa,Beverages,Online,92,414.84,2023,9
+2022-10-12,Asia,Dairy Products,Online,863,1697.84,2022,10
+2022-10-20,Africa,Confectionery,Online,559,4833.14,2022,10
+2024-01-08,North America,Prepared Foods,Offline,166,401.99,2024,1
+2024-04-04,Asia,Confectionery,Online,600,4630.17,2024,4
+2023-10-31,South America,Beverages,Online,198,1365.27,2023,10
+2023-01-28,Asia,Beverages,Offline,977,4540.1,2023,1
+2022-11-29,North America,Dairy Products,Online,439,4127.0,2022,11
+2024-05-06,Asia,Pet Care,Offline,762,3952.47,2024,5
+2024-04-27,Africa,Dairy Products,Offline,492,3390.37,2024,4
+2023-05-02,North America,Prepared Foods,Online,750,2701.6,2023,5
+2023-01-23,North America,Dairy Products,Online,390,3252.37,2023,1
+2023-12-04,South America,Prepared Foods,Online,140,4727.46,2023,12
+2024-02-23,North America,Pet Care,Online,589,2895.49,2024,2
+2022-06-25,Asia,Pet Care,Online,805,3848.66,2022,6
+2023-06-24,Africa,Dairy Products,Online,996,3115.19,2023,6
+2023-01-13,Africa,Pet Care,Offline,607,4189.94,2023,1
+2023-02-20,South America,Pet Care,Online,158,1226.4,2023,2
+2024-02-26,Africa,Confectionery,Online,833,3378.75,2024,2
+2024-02-28,Asia,Confectionery,Offline,644,396.09,2024,2
+2024-02-19,North America,Dairy Products,Offline,582,3524.83,2024,2
+2023-03-05,South America,Beverages,Offline,75,2527.14,2023,3
+2022-10-09,Europe,Dairy Products,Online,602,3402.07,2022,10
+2022-06-08,Asia,Confectionery,Offline,364,795.4,2022,6
+2023-06-21,South America,Pet Care,Offline,86,619.96,2023,6
+2022-08-20,Europe,Beverages,Online,661,1338.93,2022,8
+2023-08-24,Asia,Confectionery,Online,564,4958.62,2023,8
+2024-05-03,South America,Dairy Products,Offline,409,1994.16,2024,5
+2024-04-30,Asia,Pet Care,Online,231,4137.65,2024,4
+2024-02-09,South America,Dairy Products,Online,667,4468.82,2024,2
+2023-01-30,South America,Dairy Products,Offline,579,2418.51,2023,1
+2023-10-23,North America,Confectionery,Online,459,4117.68,2023,10
+2023-06-06,Europe,Prepared Foods,Online,694,3079.12,2023,6
+2023-01-30,Europe,Pet Care,Online,313,4516.2,2023,1
+2023-10-22,North America,Prepared Foods,Offline,821,493.65,2023,10
+2022-07-08,Asia,Beverages,Online,779,2203.13,2022,7
+2024-02-11,Europe,Dairy Products,Offline,615,2165.84,2024,2
+2022-12-23,North America,Beverages,Offline,462,645.67,2022,12
+2023-08-19,Asia,Confectionery,Offline,813,1944.48,2023,8
+2022-11-22,North America,Confectionery,Online,447,4734.91,2022,11
+2023-04-04,South America,Confectionery,Offline,930,4841.88,2023,4
+2023-09-01,Africa,Confectionery,Online,615,276.53,2023,9
+2024-01-26,North America,Beverages,Online,59,1679.85,2024,1
+2023-07-20,Asia,Beverages,Offline,478,4658.03,2023,7
+2023-05-05,Africa,Pet Care,Offline,957,1301.55,2023,5
+2023-06-10,South America,Pet Care,Offline,992,2687.0,2023,6
+2023-03-15,Europe,Confectionery,Offline,422,1952.52,2023,3
+2024-04-12,South America,Beverages,Online,827,4507.04,2024,4
+2022-08-20,South America,Prepared Foods,Offline,435,236.16,2022,8
+2022-06-11,Africa,Dairy Products,Online,756,342.68,2022,6
+2023-09-24,South America,Pet Care,Online,524,1478.15,2023,9
+2023-12-25,North America,Confectionery,Online,979,1493.52,2023,12
+2022-09-19,Asia,Prepared Foods,Offline,276,836.29,2022,9
+2024-05-10,North America,Pet Care,Offline,311,1074.34,2024,5
+2022-06-03,North America,Prepared Foods,Offline,63,2377.42,2022,6
+2024-02-12,Africa,Confectionery,Offline,956,2593.79,2024,2
+2023-08-22,Asia,Prepared Foods,Offline,264,1310.65,2023,8
+2023-03-18,Africa,Confectionery,Offline,505,970.96,2023,3
+2022-11-06,Asia,Pet Care,Offline,935,3009.11,2022,11
+2023-03-08,South America,Pet Care,Online,28,3192.37,2023,3
+2024-04-08,Europe,Pet Care,Online,866,1594.19,2024,4
+2024-02-08,North America,Prepared Foods,Offline,668,2338.73,2024,2
+2022-11-28,Africa,Prepared Foods,Online,419,3135.42,2022,11
+2023-03-31,South America,Beverages,Online,338,2715.65,2023,3
+2024-05-10,Africa,Pet Care,Offline,620,4511.16,2024,5
+2022-06-26,Asia,Beverages,Offline,300,833.8,2022,6
+2022-12-08,Africa,Confectionery,Offline,661,2076.56,2022,12
+2023-10-06,South America,Confectionery,Online,677,1662.57,2023,10
+2023-12-09,Europe,Confectionery,Offline,53,486.86,2023,12
+2024-01-28,Asia,Dairy Products,Online,335,961.73,2024,1
+2022-07-13,Europe,Confectionery,Online,265,4372.93,2022,7
+2023-11-30,South America,Dairy Products,Offline,220,670.02,2023,11
+2022-11-03,Africa,Pet Care,Offline,591,1947.92,2022,11
+2023-03-15,North America,Pet Care,Online,320,225.54,2023,3
+2022-10-10,Europe,Pet Care,Online,32,3432.64,2022,10
+2023-10-23,North America,Prepared Foods,Offline,283,2555.94,2023,10
+2023-04-13,Europe,Confectionery,Offline,111,2209.65,2023,4
+2022-11-27,Europe,Pet Care,Offline,544,3169.32,2022,11
+2023-07-19,Africa,Dairy Products,Online,963,2658.53,2023,7
+2024-03-05,Africa,Dairy Products,Offline,391,2054.18,2024,3
+2024-04-28,North America,Pet Care,Offline,202,2090.51,2024,4
+2022-10-23,Africa,Confectionery,Online,493,2177.11,2022,10
+2023-12-30,North America,Beverages,Offline,271,2550.14,2023,12
+2023-11-13,South America,Prepared Foods,Online,826,3503.49,2023,11
+2023-01-18,Europe,Beverages,Online,143,2248.91,2023,1
+2022-08-05,Europe,Beverages,Online,787,3135.37,2022,8
+2022-10-13,Africa,Dairy Products,Offline,992,569.3,2022,10
+2022-06-16,North America,Pet Care,Offline,361,4397.35,2022,6
+2023-12-06,North America,Pet Care,Offline,758,1495.2,2023,12
+2022-11-17,Europe,Dairy Products,Offline,60,2579.84,2022,11
+2023-11-08,South America,Beverages,Offline,268,805.17,2023,11
+2023-04-02,Africa,Confectionery,Online,620,4676.76,2023,4
+2022-12-07,Europe,Confectionery,Offline,983,940.06,2022,12
+2023-03-31,Africa,Prepared Foods,Online,820,1879.46,2023,3
+2022-10-02,Africa,Beverages,Online,310,4412.18,2022,10
+2023-06-04,South America,Confectionery,Online,369,608.91,2023,6
+2024-01-14,Europe,Dairy Products,Offline,417,4725.36,2024,1
+2022-11-03,Europe,Pet Care,Online,813,4140.95,2022,11
+2024-02-24,North America,Beverages,Offline,383,2575.04,2024,2
+2022-09-01,North America,Dairy Products,Online,915,4415.74,2022,9
+2022-08-23,South America,Beverages,Offline,960,4003.25,2022,8
+2022-09-08,Asia,Dairy Products,Offline,77,1173.93,2022,9
+2024-04-11,Asia,Beverages,Online,548,4200.97,2024,4
+2022-10-01,Europe,Beverages,Offline,433,1070.67,2022,10
+2024-02-29,Asia,Dairy Products,Offline,785,2404.23,2024,2
+2023-05-30,Europe,Dairy Products,Online,766,1588.02,2023,5
+2023-01-31,South America,Prepared Foods,Offline,845,2587.71,2023,1
+2022-10-31,Asia,Confectionery,Online,919,597.81,2022,10
+2024-01-06,Europe,Dairy Products,Offline,448,890.71,2024,1
+2023-04-19,North America,Dairy Products,Offline,554,4000.65,2023,4
+2023-09-19,North America,Dairy Products,Offline,64,2645.91,2023,9
+2023-05-08,North America,Confectionery,Offline,836,994.91,2023,5
+2023-04-05,Africa,Pet Care,Offline,133,1587.74,2023,4
+2023-05-21,Africa,Confectionery,Online,499,3162.34,2023,5
+2023-10-08,Europe,Confectionery,Offline,293,4000.28,2023,10
+2023-01-24,Africa,Pet Care,Online,716,4939.87,2023,1
+2023-07-24,North America,Confectionery,Offline,106,2954.92,2023,7
+2024-01-13,Europe,Confectionery,Offline,46,1215.77,2024,1
+2023-09-19,Europe,Prepared Foods,Offline,451,1192.56,2023,9
+2023-01-25,Asia,Pet Care,Offline,96,2057.86,2023,1
+2022-09-06,Europe,Pet Care,Offline,605,4838.53,2022,9
+2023-09-16,Europe,Dairy Products,Online,436,2241.64,2023,9
+2022-08-29,Europe,Confectionery,Offline,182,1147.74,2022,8
+2023-09-06,South America,Dairy Products,Online,89,3131.94,2023,9
+2022-06-01,Europe,Confectionery,Online,51,1828.54,2022,6
+2023-06-28,Europe,Pet Care,Online,446,1727.62,2023,6
+2022-08-02,Europe,Dairy Products,Online,586,3259.58,2022,8
+2022-12-26,Europe,Confectionery,Online,346,2302.45,2022,12
+2022-10-11,Africa,Confectionery,Online,870,4436.97,2022,10
+2023-01-18,Asia,Pet Care,Offline,875,1322.97,2023,1
+2022-11-15,Europe,Prepared Foods,Offline,782,275.86,2022,11
+2024-03-29,Europe,Beverages,Offline,798,198.06,2024,3
+2023-07-16,North America,Prepared Foods,Offline,335,3916.03,2023,7
+2024-03-28,South America,Prepared Foods,Online,123,1951.96,2024,3
+2023-04-02,Africa,Confectionery,Offline,127,2525.85,2023,4
+2023-03-14,Europe,Pet Care,Online,371,3854.75,2023,3
+2022-11-14,North America,Pet Care,Online,227,4717.71,2022,11
+2022-08-21,South America,Confectionery,Offline,168,1152.43,2022,8
+2023-10-12,Asia,Confectionery,Online,945,2886.47,2023,10
+2022-07-30,North America,Beverages,Online,565,426.39,2022,7
+2024-05-22,Europe,Dairy Products,Offline,792,636.87,2024,5
+2022-07-13,Africa,Confectionery,Online,153,3988.98,2022,7
+2024-02-01,Europe,Beverages,Offline,29,4119.02,2024,2
+2024-04-07,North America,Pet Care,Offline,908,502.45,2024,4
+2023-09-14,South America,Pet Care,Offline,22,1605.13,2023,9
+2023-02-14,North America,Pet Care,Online,530,245.55,2023,2
+2023-01-06,North America,Dairy Products,Offline,430,3837.42,2023,1
+2023-10-13,South America,Dairy Products,Offline,280,383.59,2023,10
+2023-07-24,Europe,Confectionery,Online,297,4112.02,2023,7
+2022-09-02,North America,Pet Care,Online,43,3861.44,2022,9
+2024-04-24,Europe,Prepared Foods,Offline,946,3197.72,2024,4
+2023-03-20,North America,Beverages,Online,731,700.53,2023,3
+2022-07-26,Asia,Prepared Foods,Online,358,4998.73,2022,7
+2023-07-23,Africa,Confectionery,Offline,100,1598.51,2023,7
+2024-03-18,Asia,Beverages,Online,954,3930.51,2024,3
+2023-09-09,Europe,Beverages,Offline,175,1165.75,2023,9
+2023-02-11,South America,Prepared Foods,Offline,111,1445.99,2023,2
+2023-06-11,South America,Dairy Products,Online,654,3399.06,2023,6
+2024-05-01,Asia,Dairy Products,Offline,985,4399.15,2024,5
+2023-04-25,South America,Confectionery,Offline,752,2705.62,2023,4
+2023-12-28,Asia,Prepared Foods,Online,579,3634.65,2023,12
+2023-02-01,North America,Beverages,Online,496,3869.1,2023,2
+2024-05-20,Europe,Prepared Foods,Online,738,1906.62,2024,5
+2022-11-09,North America,Confectionery,Offline,791,4988.01,2022,11
+2022-12-21,North America,Confectionery,Online,261,1321.55,2022,12
+2022-08-18,Africa,Prepared Foods,Offline,361,3498.06,2022,8
+2023-07-06,Asia,Dairy Products,Online,998,1562.15,2023,7
+2024-04-27,Asia,Beverages,Online,516,1484.52,2024,4
+2023-02-16,Europe,Dairy Products,Offline,379,3990.95,2023,2
+2024-01-25,Asia,Dairy Products,Online,220,4036.87,2024,1
+2023-07-09,North America,Prepared Foods,Online,974,1515.15,2023,7
+2022-11-12,Europe,Prepared Foods,Online,888,949.13,2022,11
+2023-06-18,Asia,Beverages,Offline,103,3444.35,2023,6
+2023-03-02,South America,Prepared Foods,Online,705,4374.71,2023,3
+2023-02-10,Asia,Confectionery,Offline,44,379.73,2023,2
+2023-03-19,Africa,Confectionery,Offline,375,4228.59,2023,3
+2022-07-21,Europe,Prepared Foods,Offline,637,4791.64,2022,7
+2022-08-26,Asia,Beverages,Online,649,1007.65,2022,8
+2023-01-30,Asia,Prepared Foods,Offline,530,812.88,2023,1
+2022-09-08,Africa,Confectionery,Online,81,3483.22,2022,9
+2022-07-27,Asia,Beverages,Online,932,4222.92,2022,7
+2023-10-17,Europe,Confectionery,Offline,585,2106.64,2023,10
+2023-06-22,Africa,Dairy Products,Online,308,1434.61,2023,6
+2023-10-17,South America,Dairy Products,Online,663,4498.86,2023,10
+2022-09-06,Europe,Beverages,Offline,126,594.63,2022,9
+2024-01-04,Asia,Pet Care,Online,285,4910.74,2024,1
+2022-12-06,North America,Beverages,Online,324,3667.62,2022,12
+2024-04-18,South America,Pet Care,Offline,631,2139.17,2024,4
+2024-01-07,North America,Beverages,Offline,279,2987.14,2024,1
+2022-12-19,South America,Pet Care,Offline,415,2769.45,2022,12
+2022-12-04,Europe,Dairy Products,Online,603,1271.65,2022,12
+2024-05-11,Europe,Confectionery,Offline,886,3815.82,2024,5
+2024-03-15,Asia,Prepared Foods,Offline,56,472.99,2024,3
+2023-05-24,Europe,Dairy Products,Offline,111,2889.43,2023,5
+2022-06-04,Africa,Beverages,Online,69,450.72,2022,6
+2022-08-25,North America,Pet Care,Online,362,3557.64,2022,8
+2024-04-28,Africa,Dairy Products,Offline,936,3791.62,2024,4
+2024-02-28,Asia,Confectionery,Offline,613,1182.23,2024,2
+2023-01-06,Europe,Dairy Products,Online,187,1964.98,2023,1
+2022-12-18,North America,Dairy Products,Offline,45,3221.47,2022,12
+2023-09-01,Europe,Dairy Products,Offline,249,156.98,2023,9
+2024-01-17,Europe,Dairy Products,Online,142,937.85,2024,1
+2024-01-15,Europe,Confectionery,Online,391,1874.29,2024,1
+2023-12-20,Asia,Confectionery,Offline,536,4528.51,2023,12
+2022-12-05,Asia,Dairy Products,Offline,162,1460.57,2022,12
+2022-10-11,South America,Beverages,Offline,442,173.09,2022,10
+2023-03-16,Africa,Pet Care,Offline,218,3141.48,2023,3
+2023-05-31,South America,Prepared Foods,Offline,688,2246.54,2023,5
+2022-10-08,Africa,Prepared Foods,Offline,724,1759.51,2022,10
+2022-11-30,North America,Beverages,Online,480,4134.54,2022,11
+2022-12-18,Asia,Pet Care,Offline,609,126.31,2022,12
+2024-01-02,South America,Confectionery,Offline,452,2331.61,2024,1
+2023-03-22,North America,Pet Care,Online,877,3794.46,2023,3
+2022-05-29,Africa,Beverages,Offline,646,1673.54,2022,5
+2023-02-19,Africa,Beverages,Online,641,2709.64,2023,2
+2023-08-18,South America,Pet Care,Offline,645,3221.16,2023,8
+2022-07-26,Asia,Beverages,Online,207,3016.48,2022,7
+2024-05-06,North America,Pet Care,Offline,923,3077.02,2024,5
+2022-12-26,Asia,Dairy Products,Online,774,2467.93,2022,12
+2022-09-08,Asia,Pet Care,Online,987,1313.6,2022,9
+2023-08-09,Asia,Beverages,Online,244,1731.42,2023,8
+2022-11-18,South America,Beverages,Online,665,4210.75,2022,11
+2023-08-01,South America,Beverages,Offline,880,1170.53,2023,8
+2023-07-20,Asia,Confectionery,Online,195,3345.65,2023,7
+2022-12-14,Asia,Confectionery,Offline,430,4326.69,2022,12
+2022-07-12,Europe,Dairy Products,Offline,775,4413.72,2022,7
+2023-10-18,North America,Pet Care,Offline,971,356.95,2023,10
+2023-07-10,North America,Dairy Products,Offline,872,3917.57,2023,7
+2023-10-29,South America,Prepared Foods,Offline,207,1171.53,2023,10
+2024-03-29,Africa,Beverages,Online,116,2181.88,2024,3
+2023-10-29,North America,Dairy Products,Offline,766,4618.9,2023,10
+2022-08-11,Africa,Beverages,Online,758,1405.46,2022,8
+2023-08-08,South America,Prepared Foods,Offline,632,2333.95,2023,8
+2023-04-21,Europe,Beverages,Online,866,2111.99,2023,4
+2022-09-14,Asia,Prepared Foods,Offline,922,529.26,2022,9
+2023-05-07,Asia,Pet Care,Online,451,4275.79,2023,5
+2023-08-16,Europe,Beverages,Offline,238,2492.35,2023,8
+2023-06-01,Africa,Confectionery,Online,587,3532.64,2023,6
+2023-04-24,Europe,Dairy Products,Online,951,346.79,2023,4
+2023-11-17,South America,Pet Care,Offline,214,2409.74,2023,11
+2023-07-22,North America,Beverages,Offline,875,4033.36,2023,7
+2022-08-13,Asia,Beverages,Offline,837,3759.55,2022,8
+2022-07-24,North America,Confectionery,Offline,352,857.53,2022,7
+2023-06-09,Africa,Confectionery,Online,380,3646.23,2023,6
+2022-09-28,Africa,Pet Care,Offline,114,1415.88,2022,9
+2023-11-09,Europe,Dairy Products,Online,177,3900.71,2023,11
+2023-05-08,Asia,Dairy Products,Online,529,2098.06,2023,5
+2023-06-09,Africa,Confectionery,Offline,443,4060.94,2023,6
+2023-09-08,Asia,Dairy Products,Online,932,774.83,2023,9
+2022-08-04,South America,Pet Care,Offline,81,4053.88,2022,8
+2022-07-30,Asia,Beverages,Offline,131,2394.34,2022,7
+2022-06-25,Asia,Beverages,Online,77,1582.04,2022,6
+2023-08-06,North America,Prepared Foods,Online,580,3568.84,2023,8
+2023-07-26,South America,Pet Care,Online,929,4487.28,2023,7
+2023-01-04,South America,Confectionery,Online,716,4700.74,2023,1
+2023-04-08,Asia,Prepared Foods,Online,735,2210.37,2023,4
+2022-11-18,Africa,Dairy Products,Offline,576,4587.19,2022,11
+2022-08-15,South America,Pet Care,Offline,972,3029.05,2022,8
+2023-10-16,North America,Prepared Foods,Online,900,1371.64,2023,10
+2023-06-27,North America,Pet Care,Online,832,851.45,2023,6
+2023-03-28,Africa,Prepared Foods,Offline,661,3778.97,2023,3
+2024-03-20,South America,Beverages,Offline,54,1833.81,2024,3
+2024-03-18,Asia,Confectionery,Offline,452,2771.34,2024,3
+2022-12-18,Europe,Dairy Products,Online,619,4826.33,2022,12
+2024-01-04,South America,Beverages,Online,84,1895.09,2024,1
+2023-09-07,South America,Beverages,Offline,12,4060.73,2023,9
+2023-08-15,Asia,Pet Care,Offline,596,2998.53,2023,8
+2023-11-19,South America,Beverages,Online,320,185.3,2023,11
+2023-10-28,Asia,Prepared Foods,Offline,469,3138.4,2023,10
+2024-02-26,Africa,Prepared Foods,Offline,114,3979.47,2024,2
+2022-12-02,Asia,Dairy Products,Offline,730,142.69,2022,12
+2023-10-28,Asia,Prepared Foods,Offline,365,4793.39,2023,10
+2023-04-01,North America,Confectionery,Offline,549,3249.85,2023,4
+2024-01-06,Europe,Beverages,Online,121,778.92,2024,1
+2024-01-22,North America,Dairy Products,Online,891,3097.06,2024,1
